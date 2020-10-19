@@ -12,6 +12,7 @@
         <b-form-input
           id="input-1"
           required
+          v-model.lazy="blog.title"
           placeholder="Enter your blog title"
         ></b-form-input>
            <label for="textarea">Blog Content:</label>
