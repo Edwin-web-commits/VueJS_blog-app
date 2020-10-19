@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+Introduction: This is a single page Blog application in which a user can write a blog,post a blog, and view a list of blogs that other users posted.Upon viewing the blogs,a user                 can click on each blog title to see some additional information about the blog.
+
+Technologies: Vue.js , Vuex, Vue Router, BootstrapVue and Firebase Database Rest API
+
+
 ## Build Setup
 
 ``` bash
